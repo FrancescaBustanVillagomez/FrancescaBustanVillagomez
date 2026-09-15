@@ -13,8 +13,8 @@ My professional goal is to pivot fully into Cybersecurity, using my solid backgr
 
 | Skill | Associated Project |
 |-----------------------------------------------|--------------------|
-| SIEM Implementation and Log Analysis (Splunk) | <a href="https://github.com/FrancescaBustanVillagomez/progetto">MyDFIR - SOC Lab</a> |
-| Attack Simulation (Atomic Red Team)           | <a href="https://github.com/FrancescaBustanVillagomez/progetto">MyDFIR - SOC Lab</a> |
+| SIEM Implementation and Log Analysis (Splunk) | Active Directory & SOC Home Lab |
+| Attack Simulation (Atomic Red Team)           | Active Directory & SOC Home Lab  |
 | Network Routing & Traffic Analysis            | Professional Experience |
 | Python Programming & Algorithmic Search       | <a href="https://github.com/FrancescaBustanVillagomez/progetto">Bachelor's Thesis Code</a> |
 
@@ -38,4 +38,4 @@ My professional goal is to pivot fully into Cybersecurity, using my solid backgr
   Developed a Python framework for the analysis and implementation of advanced search algorithms (A*, IDA*, etc.) as part of my Bachelor's thesis.
 
 - **Active Directory & SOC Home Lab**
-  Built and configured a complete Active Directory environment (Windows Server) to conduct attack simulations (Atomic Red Team) and implement threat detection and log analysis using a SIEM (Splunk).
+  Built and configured a complete Active Directory and Windows Server environment. Simulated attacks using Kali Linux (Hydra brute-force) and executed Atomic Red Team techniques via PowerShell with administrative privileges (such as T1136.001 and T1059.001), subsequently analyzing the generated logs and telemetry using a SIEM (Splunk) for threat detection.
