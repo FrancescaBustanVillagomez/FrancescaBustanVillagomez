@@ -13,8 +13,8 @@ My professional goal is to pivot fully into Cybersecurity, using my solid backgr
 
 | Skill | Associated Project |
 |-----------------------------------------------|--------------------|
-| SIEM Implementation and Log Analysis (Splunk) | Active Directory & SOC Home Lab |
-| Attack Simulation (Atomic Red Team)           | Active Directory & SOC Home Lab  |
+| SIEM Implementation and Log Analysis (Splunk) | <a href="https://github.com/FrancescaBustanVillagomez/Active-Directory-SOC-Lab">Active Directory & SOC Home Lab</a> |
+| Attack Simulation (Atomic Red Team)           | <a href="https://github.com/FrancescaBustanVillagomez/Active-Directory-SOC-Lab">Active Directory & SOC Home Lab</a>  |
 | Network Routing & Traffic Analysis            | Professional Experience |
 | Python Programming & Algorithmic Search       | <a href="https://github.com/FrancescaBustanVillagomez/progetto">Bachelor's Thesis Code</a> |
 
