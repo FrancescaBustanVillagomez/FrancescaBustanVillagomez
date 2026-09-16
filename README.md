@@ -37,5 +37,5 @@ My professional goal is to pivot fully into Cybersecurity, using my solid backgr
 - **[Python Framework for Advanced Algorithmic Search](https://github.com/FrancescaBustanVillagomez/progetto)**
   Developed a Python framework for the analysis and implementation of advanced search algorithms (A*, IDA*, etc.) as part of my Bachelor's thesis.
 
-- **Active Directory & SOC Home Lab**
+- **[Active Directory & SOC Home Lab](https://github.com/FrancescaBustanVillagomez/Active-Directory-SOC-Lab)**
   Built and configured a complete Active Directory and Windows Server environment. Simulated attacks using Kali Linux (Hydra brute-force) and executed Atomic Red Team techniques via PowerShell with administrative privileges (such as T1136.001 and T1059.001), subsequently analyzing the generated logs and telemetry using a SIEM (Splunk) for threat detection.
