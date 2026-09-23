@@ -17,7 +17,7 @@ My professional goal is to pivot fully into Cybersecurity, using my solid backgr
 | Attack Simulation (Atomic Red Team)           | <a href="https://github.com/FrancescaBustanVillagomez/Active-Directory-SOC-Lab">Active Directory & SOC Home Lab</a>  |
 | Network Routing & Traffic Analysis            | Professional Experience |
 | Python Programming & Algorithmic Search       | <a href="https://github.com/FrancescaBustanVillagomez/progetto">Bachelor's Thesis Code</a> |
-| Log Analysis & Incident Response | <a href="https://github.com/FrancescaBustanVillagomez/NOME_DELLA_TUA_REPOSITORY">HTB Sherlock: SSH Brute-Force Investigation</a> |
+| Log Analysis & Incident Response | <a href="https://github.com/FrancescaBustanVillagomez/HTB-Sherlock-Brutus-SSH-Brute-Force-Investigation.git">HTB Sherlock: SSH Brute-Force Investigation</a> |
 
 ## Tools
 
